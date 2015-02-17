@@ -50,7 +50,7 @@ public Planet(String name, double diameter, double mass){
 
 @Override 
 public String toString(){
-	return getName() + " has a diamteter of " + _diameter + " and a mass of " + _mass;
+	return getName() + " has a diamteter of " + _diameter + " kilometers and a mass of " + _mass + " tons";
 }
 	
 }
