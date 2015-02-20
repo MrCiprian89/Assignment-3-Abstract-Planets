@@ -3,7 +3,7 @@
  */
 
 /**
- * @author Steve
+ * @author Stephen Ciprian
  *
  */
 public class Program {
